@@ -5,11 +5,11 @@ The webpage displays the first **50 Airbnb listings** from a provided JSON datas
 ## Live Website
 
 **GitHub Pages:**  
-https://jpaintsil-neu.github.io/airbnb-listings/
+https://jaiselbuilds.github.io/airbnb-listings/
 
 ## GitHub Repository
 
-https://github.com/jpaintsil-neu/airbnb-listings
+https://github.com/jaiselbuilds/airbnb-listings
 
 ---
 
@@ -146,7 +146,7 @@ Provides a fallback image when an Airbnb image is unavailable.
 Clone the repository:
 
 ```bash
-git clone https://github.com/jpaintsil-neu/airbnb-listings.git
+git clone https://github.com/jaiselbuilds/airbnb-listings.git
 ```
 
 Open the project folder in Visual Studio Code.
@@ -165,7 +165,7 @@ The project is published using **GitHub Pages** from the `main` branch.
 
 Live site:
 
-https://jpaintsil-neu.github.io/airbnb-listings/
+https://jaiselbuilds.github.io/airbnb-listings/
 
 ---
 
