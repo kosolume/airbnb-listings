@@ -210,5 +210,3 @@ AI-assisted suggestions were reviewed and tested during development.
 ## Author
 
 **Kosolume**  
-CS 5610 — Web Development  
-Northeastern University
