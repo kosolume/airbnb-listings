@@ -206,7 +206,3 @@ ChatGPT was used as a learning and development aid for:
 AI-assisted suggestions were reviewed and tested during development.
 
 ---
-
-## Author
-
-**Kosolume**  
